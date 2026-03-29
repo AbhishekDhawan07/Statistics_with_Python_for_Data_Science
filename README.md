@@ -1,4 +1,4 @@
-# 📊 Statistics with Python for_Data_Science
+# 📊 Statistics with Python for Data Science
 
 This repository provides a structured approach to learning **Statistics for Data Science using Python**. It includes Jupyter Notebook files that cover essential statistical concepts along with practical implementations.
 
